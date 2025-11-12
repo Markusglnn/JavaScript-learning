@@ -1,2 +1,5 @@
 # JavaScript-learning
-Dies dient nur zur Weiterbildung
+
+Ich werde eine Haushaltsapp programmieren und in meinem 
+Portfolio veröffentlichen. 
+
